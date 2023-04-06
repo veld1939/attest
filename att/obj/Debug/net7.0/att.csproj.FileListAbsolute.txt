@@ -1,0 +1,15 @@
+C:\Users\олег\Desktop\атестация\att\bin\Debug\net7.0\att.exe
+C:\Users\олег\Desktop\атестация\att\bin\Debug\net7.0\att.deps.json
+C:\Users\олег\Desktop\атестация\att\bin\Debug\net7.0\att.runtimeconfig.json
+C:\Users\олег\Desktop\атестация\att\bin\Debug\net7.0\att.dll
+C:\Users\олег\Desktop\атестация\att\bin\Debug\net7.0\att.pdb
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\att.csproj.AssemblyReference.cache
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\att.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\att.AssemblyInfoInputs.cache
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\att.AssemblyInfo.cs
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\att.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\att.dll
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\refint\att.dll
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\att.pdb
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\att.genruntimeconfig.cache
+C:\Users\олег\Desktop\атестация\att\obj\Debug\net7.0\ref\att.dll
